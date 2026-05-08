@@ -11,7 +11,7 @@ hard
 GRANDMASTER
 Matt. (The master)
 In the demo game.
-If you would like to use this code in your game project (__If you are a game dev_)
+If you would like to use this code in your game project (*if you are a game dev*)
 __you can use it. But open source it (Since you will probably modify it).
 Same if you want to redistribute/modify it__
 
